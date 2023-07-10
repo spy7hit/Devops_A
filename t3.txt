@@ -1,0 +1,2 @@
+t3 file is to be added in br_del.
+if we delete the branch, this file also going to be deleted.
